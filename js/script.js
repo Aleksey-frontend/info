@@ -1,0 +1,6 @@
+$(function () {
+    $('select').selectpicker();
+});
+
+
+
